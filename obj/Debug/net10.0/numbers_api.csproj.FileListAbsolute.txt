@@ -1,0 +1,14 @@
+/Users/brittbreugelmans/Documents/School 25-26/numbers_api/bin/Debug/net10.0/numbers_api
+/Users/brittbreugelmans/Documents/School 25-26/numbers_api/bin/Debug/net10.0/numbers_api.deps.json
+/Users/brittbreugelmans/Documents/School 25-26/numbers_api/bin/Debug/net10.0/numbers_api.runtimeconfig.json
+/Users/brittbreugelmans/Documents/School 25-26/numbers_api/bin/Debug/net10.0/numbers_api.dll
+/Users/brittbreugelmans/Documents/School 25-26/numbers_api/bin/Debug/net10.0/numbers_api.pdb
+/Users/brittbreugelmans/Documents/School 25-26/numbers_api/obj/Debug/net10.0/numbers_api.GeneratedMSBuildEditorConfig.editorconfig
+/Users/brittbreugelmans/Documents/School 25-26/numbers_api/obj/Debug/net10.0/numbers_api.AssemblyInfoInputs.cache
+/Users/brittbreugelmans/Documents/School 25-26/numbers_api/obj/Debug/net10.0/numbers_api.AssemblyInfo.cs
+/Users/brittbreugelmans/Documents/School 25-26/numbers_api/obj/Debug/net10.0/numbers_api.csproj.CoreCompileInputs.cache
+/Users/brittbreugelmans/Documents/School 25-26/numbers_api/obj/Debug/net10.0/numbers_api.dll
+/Users/brittbreugelmans/Documents/School 25-26/numbers_api/obj/Debug/net10.0/refint/numbers_api.dll
+/Users/brittbreugelmans/Documents/School 25-26/numbers_api/obj/Debug/net10.0/numbers_api.pdb
+/Users/brittbreugelmans/Documents/School 25-26/numbers_api/obj/Debug/net10.0/numbers_api.genruntimeconfig.cache
+/Users/brittbreugelmans/Documents/School 25-26/numbers_api/obj/Debug/net10.0/ref/numbers_api.dll
