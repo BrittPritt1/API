@@ -10,11 +10,25 @@
         
         string url = $"http://numbersapi.com/{month}/{day}/date";
 
-        HttpClient client = new HttpClient();
-        HttpResponseMessage response = await client.GetAsync(url);
+        try
+        {
+            HttpClient client = new HttpClient();
+            HttpResponseMessage response = await client.GetAsync(url);
 
-        string message = await response.Content.ReadAsStringAsync();
-
-        Console.WriteLine("Fact: " + message);
+            if(response.IsSuccessStatusCode)
+            {
+                string message = await response.Content.ReadAsStringAsync();
+                Console.WriteLine("Fact: " + message);
+            } else
+            {
+                Console.WriteLine("The request was not succesful. Status code: " + response.StatusCode);
+            }
+            
+        }
+        catch (Exception ex)
+        {
+            Console.WriteLine(ex);
+        }
+        
     }
 }

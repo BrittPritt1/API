@@ -12,3 +12,4 @@
 /Users/brittbreugelmans/Documents/School 25-26/numbers_api/obj/Debug/net10.0/numbers_api.pdb
 /Users/brittbreugelmans/Documents/School 25-26/numbers_api/obj/Debug/net10.0/numbers_api.genruntimeconfig.cache
 /Users/brittbreugelmans/Documents/School 25-26/numbers_api/obj/Debug/net10.0/ref/numbers_api.dll
+/Users/brittbreugelmans/Documents/School 25-26/numbers_api/obj/Debug/net10.0/numbers_api.sourcelink.json
